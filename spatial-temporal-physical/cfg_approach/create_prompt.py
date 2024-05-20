@@ -30,7 +30,7 @@ durations = ["a quarter of a day", "10 hours", "3 hours", "half a day", "1 hour"
 destinations = ["ocean", "mountains", "plains", "desert"]
 days_later = list(range(100))
 distances = list(range(100))
-PROMPTS_JSON_FILENAME = "transport_physical_temporal_prompts.json"
+PROMPTS_JSON_FILENAME = "transport_spatial_temporal_physical_prompts.json"
 
 
 def human_annotate_prompts(num_prompts_to_create):
