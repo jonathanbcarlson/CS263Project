@@ -62,18 +62,18 @@ def human_annotate_prompts(num_prompts_to_create):
         json.dump(annotated_results, output_json, indent=2)
 
 
-def llm_prompt_response():
+def llm_prompt_response(model_name: str):
     with open(PROMPTS_JSON_FILENAME, "r") as prompts_json_file:
         prompts = json.load(prompts_json_file)
     new_prompts = copy.deepcopy(prompts)
     for i, prompt in enumerate(prompts):
         print(prompt["prompt"])
         llm_response = int(input("enter chat response (1 or 2) then hit enter\n"))
-        new_prompts[i]["gpt4o_llm_response"] = llm_response
+        new_prompts[i]["responses"] = {model_name: llm_response}
     with open(PROMPTS_JSON_FILENAME, "w") as prompts_json_file:
-        json.dump(new_prompts, prompts_json_file)
+        json.dump(new_prompts, prompts_json_file, indent=2)
 
 
 if __name__ == "__main__":
     # human_annotate_prompts(10)
-    llm_prompt_response()
+    llm_prompt_response("gpt4o_llm_response")

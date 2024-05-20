@@ -2,66 +2,92 @@
   {
     "prompt": "If I jog into the street and 34 days later\n    I find myself by the mountains which is 90 miles away.\n    How could I have gotten to the mountains?\n    1. I sprint for 1 hour.\n    2. I walk for a quarter of a day.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 2,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I swim into the street and 34 days later\n    I find myself by the mountains which is 40 miles away.\n    How could I have gotten to the mountains?\n    1. I bike for a quarter of a day.\n    2. I sprint for 10 hours.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 1,
-    "gpt4o_llm_response": 1
+    "responses": {
+      "gpt4o_llm_response": 1
+    }
   },
   {
     "prompt": "If I ride a horse into the street and 43 days later\n    I find myself by the mountains which is 39 miles away.\n    How could I have gotten to the mountains?\n    1. I run for 1 hour.\n    2. I walk for half a day.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 2,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I swim into the street and 67 days later\n    I find myself by the mountains which is 25 miles away.\n    How could I have gotten to the mountains?\n    1. I bike for 1 hour.\n    2. I ride a horse for half a day.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 2,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I jog into the street and 73 days later\n    I find myself by the mountains which is 56 miles away.\n    How could I have gotten to the mountains?\n    1. I swim for 3 hours.\n    2. I run for 10 hours.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 2,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I jog into the street and 5 days later\n    I find myself by the mountains which is 26 miles away.\n    How could I have gotten to the mountains?\n    1. I bike for 10 hours.\n    2. I swim for 3 hours.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 1,
-    "gpt4o_llm_response": 1
+    "responses": {
+      "gpt4o_llm_response": 1
+    }
   },
   {
     "prompt": "If I jog into the street and 69 days later\n    I find myself by the ocean which is 63 miles away.\n    How could I have gotten to the ocean?\n    1. I walk for a quarter of a day.\n    2. I ride a horse for half a day.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 2,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I sprint into the street and 14 days later\n    I find myself by the plains which is 76 miles away.\n    How could I have gotten to the plains?\n    1. I jog for 10 hours.\n    2. I bike for 1 hour.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 1,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I ride a horse into the street and 60 days later\n    I find myself by the ocean which is 14 miles away.\n    How could I have gotten to the ocean?\n    1. I swim for a quarter of a day.\n    2. I jog for 1 hour.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 2,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I jog into the street and 26 days later\n    I find myself by the plains which is 78 miles away.\n    How could I have gotten to the plains?\n    1. I bike for 10 hours.\n    2. I sprint for 3 hours.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 1,
-    "gpt4o_llm_response": 1
+    "responses": {
+      "gpt4o_llm_response": 1
+    }
   },
   {
     "prompt": "If I walk into the street and 90 days later\n    I find myself by the desert which is 46 miles away.\n    How could I have gotten to the desert?\n    1. I jog for half a day.\n    2. I run for 1 hour.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 1,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I walk into the street and 94 days later\n    I find myself by the ocean which is 97 miles away.\n    How could I have gotten to the ocean?\n    1. I sprint for 1 hour.\n    2. I bike for half a day.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 2,
-    "gpt4o_llm_response": 2
+    "responses": {
+      "gpt4o_llm_response": 2
+    }
   },
   {
     "prompt": "If I run into the street and 57 days later\n    I find myself by the mountains which is 77 miles away.\n    How could I have gotten to the mountains?\n    1. I ride a horse for 10 hours.\n    2. I jog for half a day.\n    Please choose the most likely answer and only respond with the number 1 or 2.\n",
     "human_annotation": 1,
-    "gpt4o_llm_response": 1
+    "responses": {
+      "gpt4o_llm_response": 1
+    }
   }
 ]
