@@ -1,0 +1,69 @@
+1. inside, a couple weeks
+2. outside, half an hour
+3. below, a few months
+4. above, half a year
+|
+1. inside, a day
+2. outside, an hour
+3. on top of, a few minutes
+4. below, half an hour
+|
+1. inside, a month
+2. outside, a year
+3. outside, a few days
+4. on top of, a few days
+|
+1. on, in the evening
+2. off, at 3 in the morning
+3. far away from, in the day
+4. off, in the evening
+|
+1. far away from, once a day
+2. far away from, once a year
+3. on top of, once a year
+4. above, once every two weeks
+|
+1. between, ten seconds
+2. next to, a minute
+3. between, a day
+4. inside, a second
+|
+1. over, thirty seconds
+2. under, twenty seconds
+3. on, thirty seconds
+4. over, thirty minutes
+|
+1. above, 24 hours a day
+2. within, eight hours a day
+3. around, eight hours a day
+4. around, a minute every day
+|
+1. several hours, inside
+2. several minutes, inside
+3. a few seconds, inside
+4. a few hours, outside
+|
+1. outside, one hour
+2. under, thirty minutes
+3. inside, one hour
+4. on, ten seconds
+|
+1. around, for a few hours
+2. above, for thirty seconds
+3. in, all day
+4. under, all day
+|
+1. under, thirty minutes
+2. over, fifteen minutes
+3. around, ten minutes
+4. inside, three hours
+|
+1. on, an hour
+2. under, thirty seconds
+3. around, fifty minutes
+4. inside, an hour
+|
+1. inside, one minute
+2. on top, thirty minutes
+3. within, an hour
+4. around, five hours
