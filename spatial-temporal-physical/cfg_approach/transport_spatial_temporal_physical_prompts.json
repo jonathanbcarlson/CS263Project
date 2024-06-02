@@ -1,62 +1,62 @@
 [
   {
-    "prompt": "I want to get to the hills which is 39 miles away.\n    How should I get to the hills?\n    1. I swim for half an hour.\n    2. I hike for 2 days.\n    3. I run for 1 hour.\n    4. I tiptoe for half a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
-    "human_annotation": 2
-  },
-  {
-    "prompt": "I want to get to the savannah which is 97 miles away.\n    How should I get to the savannah?\n    1. I hike for a quarter of a day.\n    2. I bike for 3 hours.\n    3. I tiptoe for 10 hours.\n    4. I sprint for half an hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
-    "human_annotation": 2
-  },
-  {
-    "prompt": "I want to get to the plains which is 84 miles away.\n    How should I get to the plains?\n    1. I walk for half an hour.\n    2. I hike for a quarter of a day.\n    3. I swim for 1 minute.\n    4. I jog for 3 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
-    "human_annotation": 2
-  },
-  {
-    "prompt": "I want to get to the hills which is 27 miles away.\n    How should I get to the hills?\n    1. I run for half an hour.\n    2. I swim for half a day.\n    3. I hike for 1 hour.\n    4. I jog for 10 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "prompt": "I want to get to the ocean which is 5 miles away.\n    How should I get to the ocean?\n    1. I bike for 2 days.\n    2. I tiptoe for a quarter of a day.\n    3. I walk for 5 minutes.\n    4. I drive for half a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
     "human_annotation": 4
   },
   {
-    "prompt": "I want to get to the ocean which is 73 miles away.\n    How should I get to the ocean?\n    1. I march for 5 minutes.\n    2. I bike for 3 hours.\n    3. I ride a horse for a quarter of a day.\n    4. I sprint for 1 hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "prompt": "I want to get to the desert which is 5 miles away.\n    How should I get to the desert?\n    1. I tiptoe for 1 hour.\n    2. I fly for 3 hours.\n    3. I run for half an hour.\n    4. I sprint for 10 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
     "human_annotation": 3
   },
   {
-    "prompt": "I want to get to the desert which is 82 miles away.\n    How should I get to the desert?\n    1. I hike for 1 hour.\n    2. I ride a horse for 10 hours.\n    3. I trek for 3 hours.\n    4. I jog for 1 minute.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
-    "human_annotation": 2
+    "prompt": "I want to get to the desert which is 1 miles away.\n    How should I get to the desert?\n    1. I drive for 2 days.\n    2. I ride a horse for a quarter of a day.\n    3. I bike for half an hour.\n    4. I run for half a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "human_annotation": 3
   },
   {
-    "prompt": "I want to get to the plains which is 74 miles away.\n    How should I get to the plains?\n    1. I run for 3 hours.\n    2. I tiptoe for 2 days.\n    3. I sprint for a quarter of a day.\n    4. I hike for 1 minute.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "prompt": "I want to get to the desert which is 5 miles away.\n    How should I get to the desert?\n    1. I drive for 1 minute.\n    2. I tiptoe for a quarter of a day.\n    3. I fly for half an hour.\n    4. I sprint for 2 days.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
     "human_annotation": 1
   },
   {
-    "prompt": "I want to get to the mountains which is 88 miles away.\n    How should I get to the mountains?\n    1. I jog for a quarter of a day.\n    2. I sprint for 3 hours.\n    3. I walk for half a day.\n    4. I bike for 2 days.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "prompt": "I want to get to the hills which is 100 miles away.\n    How should I get to the hills?\n    1. I walk for 10 hours.\n    2. I bike for half an hour.\n    3. I drive for half a day.\n    4. I sprint for 3 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "human_annotation": 3
+  },
+  {
+    "prompt": "I want to get to the desert which is 1 miles away.\n    How should I get to the desert?\n    1. I sprint for a quarter of a day.\n    2. I walk for 10 hours.\n    3. I tiptoe for 5 minutes.\n    4. I drive for 1 minute.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
     "human_annotation": 4
   },
   {
-    "prompt": "I want to get to the ocean which is 93 miles away.\n    How should I get to the ocean?\n    1. I bike for 1 minute.\n    2. I walk for half a day.\n    3. I jog for 10 hours.\n    4. I march for 3 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
-    "human_annotation": 3
-  },
-  {
-    "prompt": "I want to get to the plains which is 88 miles away.\n    How should I get to the plains?\n    1. I sprint for 1 hour.\n    2. I ride a horse for a quarter of a day.\n    3. I jog for 2 days.\n    4. I run for half a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
-    "human_annotation": 3
-  },
-  {
-    "prompt": "I want to get to the mountains which is 66 miles away.\n    How should I get to the mountains?\n    1. I run for 2 days.\n    2. I trek for 10 hours.\n    3. I jog for 5 minutes.\n    4. I ride a horse for 1 hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "prompt": "I want to get to the desert which is 100 miles away.\n    How should I get to the desert?\n    1. I ride a horse for half a day.\n    2. I drive for 2 days.\n    3. I walk for 10 hours.\n    4. I tiptoe for 3 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
     "human_annotation": 1
   },
   {
-    "prompt": "I want to get to the ocean which is 95 miles away.\n    How should I get to the ocean?\n    1. I run for 1 hour.\n    2. I ride a horse for 2 days.\n    3. I march for half an hour.\n    4. I trek for 3 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "prompt": "I want to get to the plains which is 5 miles away.\n    How should I get to the plains?\n    1. I sprint for 3 hours.\n    2. I run for half a day.\n    3. I ride a horse for 1 minute.\n    4. I drive for 10 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
     "human_annotation": 2
   },
   {
-    "prompt": "I want to get to the desert which is 86 miles away.\n    How should I get to the desert?\n    1. I hike for a quarter of a day.\n    2. I tiptoe for 5 minutes.\n    3. I walk for 1 minute.\n    4. I ride a horse for 10 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "prompt": "I want to get to the plains which is 100 miles away.\n    How should I get to the plains?\n    1. I run for half an hour.\n    2. I walk for 5 minutes.\n    3. I drive for 3 hours.\n    4. I bike for half a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "human_annotation": 3
+  },
+  {
+    "prompt": "I want to get to the desert which is 20 miles away.\n    How should I get to the desert?\n    1. I tiptoe for 1 hour.\n    2. I walk for 2 days.\n    3. I ride a horse for 1 minute.\n    4. I fly for 10 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "human_annotation": 2
+  },
+  {
+    "prompt": "I want to get to the ocean which is 20 miles away.\n    How should I get to the ocean?\n    1. I walk for half an hour.\n    2. I tiptoe for 5 minutes.\n    3. I bike for 1 minute.\n    4. I drive for 1 hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
     "human_annotation": 4
   },
   {
-    "prompt": "I want to get to the desert which is 18 miles away.\n    How should I get to the desert?\n    1. I hike for a quarter of a day.\n    2. I jog for half an hour.\n    3. I ride a horse for 5 minutes.\n    4. I sprint for half a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "prompt": "I want to get to the savannah which is 20 miles away.\n    How should I get to the savannah?\n    1. I sprint for 1 minute.\n    2. I bike for 1 hour.\n    3. I walk for half an hour.\n    4. I ride a horse for 10 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "human_annotation": 2
+  },
+  {
+    "prompt": "I want to get to the savannah which is 300 miles away.\n    How should I get to the savannah?\n    1. I ride a horse for 2 days.\n    2. I sprint for 1 hour.\n    3. I walk for half a day.\n    4. I bike for a quarter of a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
     "human_annotation": 1
   },
   {
-    "prompt": "I want to get to the desert which is 46 miles away.\n    How should I get to the desert?\n    1. I hike for half an hour.\n    2. I tiptoe for a quarter of a day.\n    3. I trek for 10 hours.\n    4. I walk for 5 minutes.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
-    "human_annotation": 3
+    "prompt": "I want to get to the mountains which is 300 miles away.\n    How should I get to the mountains?\n    1. I sprint for 1 minute.\n    2. I ride a horse for 2 days.\n    3. I fly for a quarter of a day.\n    4. I walk for 3 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "human_annotation": 2
+  },
+  {
+    "prompt": "I want to get to the ocean which is 100 miles away.\n    How should I get to the ocean?\n    1. I walk for 5 minutes.\n    2. I run for 2 days.\n    3. I sprint for half an hour.\n    4. I fly for 10 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n",
+    "human_annotation": 2
   }
 ]

@@ -9,8 +9,6 @@ def create_prompt(
     transport_method_2: str,
     transport_method_3: str,
     transport_method_4: str,
-    transport_method_5: str,
-    days_layer: int,
     destination: str,
     distance: int,
     duration_1: str,
@@ -18,13 +16,12 @@ def create_prompt(
     duration_3: str,
     duration_4: str,
 ):
-    prompt = f"""If I {transport_method_1} into the street and {days_layer} days later
-    I find myself by the {destination} which is {distance} miles away.
-    How could I have gotten to the {destination}?
-    1. I {transport_method_2} for {duration_1}.
-    2. I {transport_method_3} for {duration_2}.
-    3. I {transport_method_4} for {duration_3}.
-    4. I {transport_method_5} for {duration_4}.
+    prompt = f"""I want to get to the {destination} which is {distance} miles away.
+    How should I get to the {destination}?
+    1. I {transport_method_1} for {duration_1}.
+    2. I {transport_method_2} for {duration_2}.
+    3. I {transport_method_3} for {duration_3}.
+    4. I {transport_method_4} for {duration_4}.
     Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.
     """
     prompt = dedent(prompt)
@@ -35,15 +32,13 @@ transport_methods = [
     "bike",
     "run",
     "sprint",
-    "jog",
-    "swim",
     "walk",
     "ride a horse",
-    "hike",
-    "march",
-    "trek",
     "tiptoe",
+    "drive",
+    "fly",
 ]
+
 durations = [
     "a quarter of a day",
     "10 hours",
@@ -56,23 +51,20 @@ durations = [
     "5 minutes",
 ]
 destinations = ["ocean", "mountains", "plains", "desert", "hills", "savannah"]
-days_later = list(range(100))
-distances = list(range(100))
+distances = [1, 5, 10, 20, 100, 300]
 PROMPTS_JSON_FILENAME = "transport_spatial_temporal_physical_prompts.json"
 
 
 def human_annotate_prompts(num_prompts_to_create):
     annotated_results = []
     while len(annotated_results) < num_prompts_to_create:
-        transport_choices = random.sample(transport_methods, 5)
+        transport_choices = random.sample(transport_methods, 4)
         duration_choices = random.sample(durations, 4)
         created_prompt = create_prompt(
             transport_method_1=transport_choices[0],
             transport_method_2=transport_choices[1],
             transport_method_3=transport_choices[2],
             transport_method_4=transport_choices[3],
-            transport_method_5=transport_choices[4],
-            days_layer=random.sample(days_later, 1)[0],
             destination=random.sample(destinations, 1)[0],
             distance=random.sample(distances, 1)[0],
             duration_1=duration_choices[0],
