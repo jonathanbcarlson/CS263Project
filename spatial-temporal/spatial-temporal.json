@@ -1,100 +1,114 @@
 [
   {
-    "prompt": "If I have a plum tree in my backyard in the summer and I harvest the plums once they’re ready, I will have all the plums _____ my house  _________ after the first plums become ripe.\n1. inside, a couple weeks\n2. outside, half an hour\n3. below, a few months\n4. above, half a year\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "If I have a plum tree in my backyard in the summer and I harvest the plums once they’re ready, I will have all the plums _____ my house  _________ after the first plums become ripe.\n1. inside, a couple weeks\n2. outside, half an hour\n3. below, a few months\n4. above, half a year\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 1,
     "responses": {
-      "llama3:8b": "1"
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "1"
     }
   },
   {
-    "prompt": "If I put potato skin fries in a fryer and want to cook them to perfection, I can place them _____  a cooling rack  _________ after they turn to a golden brown.\n1. inside, a day\n2. outside, an hour\n3. on top of, a few minutes\n4. below, half an hour\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "If I put potato skin fries in a fryer and want to cook them to perfection, I can place them _____  a cooling rack  _________ after they turn to a golden brown.\n1. inside, a day\n2. outside, an hour\n3. on top of, a few minutes\n4. below, half an hour\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 3,
     "responses": {
-      "llama3:8b": "3"
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "3"
     }
   },
   {
-    "prompt": "An orchid is growing in a greenhouse. The greenhouse needs some minor repairs, so the orchid has to be transferred temporarily. The orchid will be _______ the greenhouse for ________.\n1. inside, a month\n2. outside, a year\n3. outside, a few days\n4. on top of, a few days\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "An orchid is growing in a greenhouse. The greenhouse needs some minor repairs, so the orchid has to be transferred temporarily. The orchid will be _______ the greenhouse for ________.\n1. inside, a month\n2. outside, a year\n3. outside, a few days\n4. on top of, a few days\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 3,
     "responses": {
-      "llama3:8b": "3"
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "3"
     }
   },
   {
-    "prompt": "I’ve been reading my book, A Tale of Two Cities, every day when I come home from work. When I get home, A Tale of Two Cities will be _______ the bookshelf ______.\n1. on, in the evening\n2. off, at 3 in the morning\n3. far away from, in the day\n4. off, in the evening\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "I’ve been reading my book, A Tale of Two Cities, every day when I come home from work. When I get home, A Tale of Two Cities will be _______ the bookshelf ______.\n1. on, in the evening\n2. off, at 3 in the morning\n3. far away from, in the day\n4. off, in the evening\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 4,
     "responses": {
-      "llama3:8b": "1"
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
     }
   },
   {
-    "prompt": "Jack’s hand-wound watch needs to be serviced by a professional at regular intervals. During the servicing, his watch will be _______ his watch safe ________.\n1. far away from, once a day\n2. far away from, once a year\n3. on top of, once a year\n4. above, once every two weeks\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "Jack’s hand-wound watch needs to be serviced by a professional at regular intervals. During the servicing, his watch will be _______ his watch safe ________.\n1. far away from, once a day\n2. far away from, once a year\n3. on top of, once a year\n4. above, once every two weeks\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 2,
     "responses": {
-      "llama3:8b": "2"
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "2"
     }
   },
   {
-    "prompt": "When a pencil is sharpened, it is _______ the blades for _________.\n1. between, ten seconds\n2. next to, a minute\n3. between, a day\n4. inside, a second\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "When a pencil is sharpened, it is _______ the blades for _________.\n1. between, ten seconds\n2. next to, a minute\n3. between, a day\n4. inside, a second\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 1,
     "responses": {
-      "llama3:8b": "4"
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "2"
     }
   },
   {
-    "prompt": "A coin is placed on the base of an oscillating table fan. The fan blades will be ______ the coin once every _______.\n1. over, thirty seconds\n2. under, twenty seconds\n3. on, thirty seconds\n4. over, thirty minutes\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "A coin is placed on the base of an oscillating table fan. The fan blades will be ______ the coin once every _______.\n1. over, thirty seconds\n2. under, twenty seconds\n3. on, thirty seconds\n4. over, thirty minutes\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 1,
     "responses": {
-      "llama3:8b": "1"
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "1"
     }
   },
   {
-    "prompt": "I wear AR glasses in my day-to-day life. I put away my AR glasses when I’m not using them. The glasses box is ________ the AR glasses for __________.\n1. above, 24 hours a day\n2. within, eight hours a day\n3. around, eight hours a day\n4. around, a minute every day\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "I wear AR glasses in my day-to-day life. I put away my AR glasses when I’m not using them. The glasses box is ________ the AR glasses for __________.\n1. above, 24 hours a day\n2. within, eight hours a day\n3. around, eight hours a day\n4. around, a minute every day\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 3,
     "responses": {
-      "llama3:8b": "1"
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "2"
     }
   },
   {
-    "prompt": "If I live action roleplay as a Roman soldier, I will wear my ancient Roman helmet for  _______ today _______ the park.\n1. several hours, inside\n2. several minutes, inside\n3. a few seconds, inside\n4. a few hours, outside\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "If I live action roleplay as a Roman soldier, I will wear my ancient Roman helmet for  _______ today _______ the park.\n1. several hours, inside\n2. several minutes, inside\n3. a few seconds, inside\n4. a few hours, outside\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 1,
     "responses": {
-      "llama3:8b": "4"
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
     }
   },
   {
-    "prompt": "If I am trying to bake a key lime pie, it will sit _______ the oven for _______.\n1. outside, one hour\n2. under, thirty minutes\n3. inside, one hour\n4. on, ten seconds\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "If I am trying to bake a key lime pie, it will sit _______ the oven for _______.\n1. outside, one hour\n2. under, thirty minutes\n3. inside, one hour\n4. on, ten seconds\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 3,
     "responses": {
-      "llama3:8b": "3"
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "3"
     }
   },
   {
-    "prompt": "In an arcade claw machine, most prizes are _______ the claw _______.\n1. around, for a few hours\n2. above, for thirty seconds\n3. in, all day\n4. under, all day\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "In an arcade claw machine, most prizes are _______ the claw _______.\n1. around, for a few hours\n2. above, for thirty seconds\n3. in, all day\n4. under, all day\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 4,
     "responses": {
-      "llama3:8b": "2"
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
     }
   },
   {
-    "prompt": "We set our drinks _______ coasters for _______ until we finished them.\n1. under, thirty minutes\n2. over, fifteen minutes\n3. around, ten minutes\n4. inside, three hours\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "We set our drinks _______ coasters for _______ until we finished them.\n1. under, thirty minutes\n2. over, fifteen minutes\n3. around, ten minutes\n4. inside, three hours\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 2,
     "responses": {
-      "llama3:8b": "1"
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "1"
     }
   },
   {
-    "prompt": "When I need to do laundry, I put my clothes _______ the washing machine for _______.\n1. on, an hour\n2. under, thirty seconds\n3. around, fifty minutes\n4. inside, an hour\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "When I need to do laundry, I put my clothes _______ the washing machine for _______.\n1. on, an hour\n2. under, thirty seconds\n3. around, fifty minutes\n4. inside, an hour\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 4,
     "responses": {
-      "llama3:8b": "1"
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
     }
   },
   {
-    "prompt": "My children like to play with their doll house. The figurines will stay _______ the doll house while they play for _______.\n1. inside, one minute\n2. on top, thirty minutes\n3. within, an hour\n4. around, five hours\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4.",
+    "prompt": "My children like to play with their doll house. The figurines will stay _______ the doll house while they play for _______.\n1. inside, one minute\n2. on top, thirty minutes\n3. within, an hour\n4. around, five hours\nPlease choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation.",
     "human_annotation": 3,
     "responses": {
-      "llama3:8b": "1"
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "3"
     }
   }
 ]

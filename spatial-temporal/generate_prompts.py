@@ -1,6 +1,6 @@
 import json
 
-instruction = "Please choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4."
+instruction = "Please choose the most likely answer that fills in the blanks. Please ONLY respond with a single number 1, 2, 3, or 4. NO punctuation."
 
 def generate_prompts():
     prompts = []
