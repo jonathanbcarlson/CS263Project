@@ -18,7 +18,12 @@ def get_llm_output(prompt: str):
     return response_txt
 
 
-prompt_dirs = ["physical-temporal", "spatial-temporal", "spatial-temporal-physical"]
+prompt_dirs = [
+    "spatial-physical",
+    "physical-temporal",
+    "spatial-temporal",
+    "spatial-temporal-physical",
+]
 
 for dir in prompt_dirs:
     prompts_json_filename = f"../{dir}/{dir}.json"

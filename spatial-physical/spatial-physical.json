@@ -1,58 +1,100 @@
 [
   {
     "prompt": "Can a pair of headphones and a miniature lighthouse stack on top of each other? Which is more likely to be on top?\n1. The headphones on top of the miniature lighthouse\n2. The miniature lighthouse on top of the headphones\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "llama3:8b": "4"
+    }
   },
   {
     "prompt": "Can a tiny wood figurine of Dwight from the Office and a cat scratching post stack on top of each other? Which is more likely to be on top?\n1. The tiny wood figurine of Dwight from the Office on top of the cat scratching post\n2. The cat scratching post on top of the tiny wood figurine of Dwight from the Office\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "llama3:8b": "2"
+    }
   },
   {
     "prompt": "Can a cream pie and a wall clock stack on top of each other? Which is more likely to be on top?\n1. The cream pie on top of the wall clock\n2. The wall clock on top of the cream pie\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "llama3:8b": "2"
+    }
   },
   {
     "prompt": "Can a dining chair and Biscoff cheesecake stack on top of each other? Which is more likely to be on top?\n1. The Biscoff cheesecake on top of the dining chair\n2. The dining chair on top of the Biscoff cheesecake\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "llama3:8b": "4"
+    }
   },
   {
     "prompt": "Can an owl-shaped figurine and a fake eyeball stack on top of each other? Which is more likely to be on top?\n1. The owl-shaped figurine on top of the fake eyeball\n2. The fake eyeball on top of the owl-shaped figurine\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "llama3:8b": "1"
+    }
   },
   {
     "prompt": "Can a crocheted scarf and a Rubik’s cube stack on top of each other? Which is more likely to be on top?\n1. The crocheted scarf on top of the Rubik’s cube\n2. The Rubik’s cube on top of the crocheted scarf\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 3
+    "human_annotation": 3,
+    "responses": {
+      "llama3:8b": "2"
+    }
   },
   {
     "prompt": "Can a closed cardboard box and an Arduino self-balancing robot stack on top of each other? Which is more likely to be on top?\n1. The closed cardboard box on top of the Arduino self-balancing robot\n2. The Arduino self-balancing robot on top of the closed cardboard box\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "llama3:8b": "2"
+    }
   },
   {
     "prompt": "Can a paper lantern and a cinder block stack on top of each other? Which is more likely to be on top?\n1. The paper lantern on top of the cinder block\n2. The cinder block on top of the paper lantern\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "llama3:8b": "2"
+    }
   },
   {
     "prompt": "Can a rustic walnut dining table and a 3D miniature airplane stack on top of each other? Which is more likely to be on top?\n1. The rustic walnut dining table on top of the 3D miniature airplane\n2. The 3D miniature airplane on top of the rustic walnut dining table\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "llama3:8b": "2"
+    }
   },
   {
     "prompt": "Can Nike air force ones and a world globe stack on top of each other? Which is more likely to be on top?\n1. The Nike air force ones on top of the world globe\n2. The world globe on top of the Nike air force ones\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "llama3:8b": "1"
+    }
   },
   {
     "prompt": "Can a Gameboy and a #2 pencil stack on top of each other? Which is more likely to be on top?\n1. The #2 pencil on top of the Gameboy\n2. The Gameboy on top of the #2 pencil\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "llama3:8b": "2"
+    }
   },
   {
     "prompt": "Can a wooden mallet and a dog cage stack on top of each other? Which is more likely to be on top?\n1. The wooden mallet on top of the dog cage\n2. The dog cage on top of the wooden mallet\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "llama3:8b": "1"
+    }
   },
   {
     "prompt": "Can a cabinet and a plastic coaster stack on top of each other? Which is more likely to be on top?\n1. The cabinet on top of the plastic coaster\n2. The plastic coaster on top of the cabinet\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "llama3:8b": "4"
+    }
   },
   {
     "prompt": "Can a blueberry lemon loaf cake stack on top of each other? Which is more likely to be on top?\n1. The blueberry lemon loaf cake on top of the toaster\n2. The toaster on top of the blueberry lemon loaf cake\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "llama3:8b": "2"
+    }
   }
 ]
