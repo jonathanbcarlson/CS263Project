@@ -23,6 +23,7 @@ def create_prompt(
     3. I {transport_method_3} for {duration_3}.
     4. I {transport_method_4} for {duration_4}.
     Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.
+    PLEASE ONLY respond with a single number and no punctuation.
     """
     prompt = dedent(prompt)
     return prompt
@@ -52,7 +53,7 @@ durations = [
 ]
 destinations = ["ocean", "mountains", "plains", "desert", "hills", "savannah"]
 distances = [1, 5, 10, 20, 100, 300]
-PROMPTS_JSON_FILENAME = "transport_spatial_temporal_physical_prompts.json"
+PROMPTS_JSON_FILENAME = "spatial-temporal-physical.json"
 
 
 def human_annotate_prompts(num_prompts_to_create):
