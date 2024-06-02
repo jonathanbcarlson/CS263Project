@@ -31,6 +31,6 @@ for dir in prompt_dirs:
         prompts = json.load(prompts_file)
         for prompt in tqdm(prompts):
             llm_out = get_llm_output(prompt["prompt"])
-            prompt["responses"] = {"llama3:8b": llm_out}
+            prompt["responses"]["llama3:8b"] = llm_out
     with open(prompts_json_filename, "w") as new_prompts_file:
         json.dump(prompts, new_prompts_file, indent=2, ensure_ascii=False)

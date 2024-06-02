@@ -4,7 +4,8 @@
     "human_annotation": 3,
     "responses": {
       "ChatGPT4o": "3",
-      "ChatGPT3.5": "3"
+      "ChatGPT3.5": "3",
+      "llama3:8b": "3"
     }
   },
   {
@@ -12,7 +13,8 @@
     "human_annotation": 1,
     "responses": {
       "ChatGPT4o": "1",
-      "ChatGPT3.5": "1"
+      "ChatGPT3.5": "1",
+      "llama3:8b": "2"
     }
   },
   {
@@ -20,7 +22,8 @@
     "human_annotation": 3,
     "responses": {
       "ChatGPT4o": "3",
-      "ChatGPT3.5": "3"
+      "ChatGPT3.5": "3",
+      "llama3:8b": "3"
     }
   },
   {
@@ -28,7 +31,8 @@
     "human_annotation": 1,
     "responses": {
       "ChatGPT4o": "1",
-      "ChatGPT3.5": "1"
+      "ChatGPT3.5": "1",
+      "llama3:8b": "3"
     }
   },
   {
@@ -36,7 +40,8 @@
     "human_annotation": 1,
     "responses": {
       "ChatGPT4o": "1",
-      "ChatGPT3.5": "3"
+      "ChatGPT3.5": "3",
+      "llama3:8b": "3"
     }
   },
   {
@@ -44,7 +49,8 @@
     "human_annotation": 3,
     "responses": {
       "ChatGPT4o": "3",
-      "ChatGPT3.5": "3"
+      "ChatGPT3.5": "3",
+      "llama3:8b": "1"
     }
   },
   {
@@ -52,7 +58,8 @@
     "human_annotation": 4,
     "responses": {
       "ChatGPT4o": "4",
-      "ChatGPT3.5": "4"
+      "ChatGPT3.5": "4",
+      "llama3:8b": "4"
     }
   },
   {
@@ -60,7 +67,8 @@
     "human_annotation": 2,
     "responses": {
       "ChatGPT4o": "2",
-      "ChatGPT3.5": "2"
+      "ChatGPT3.5": "2",
+      "llama3:8b": "2"
     }
   },
   {
@@ -68,7 +76,8 @@
     "human_annotation": 1,
     "responses": {
       "ChatGPT4o": "1",
-      "ChatGPT3.5": "1"
+      "ChatGPT3.5": "1",
+      "llama3:8b": "1"
     }
   },
   {
@@ -76,7 +85,8 @@
     "human_annotation": 3,
     "responses": {
       "ChatGPT4o": "3",
-      "ChatGPT3.5": "2"
+      "ChatGPT3.5": "2",
+      "llama3:8b": "2"
     }
   },
   {
@@ -84,7 +94,8 @@
     "human_annotation": 1,
     "responses": {
       "ChatGPT4o": "1",
-      "ChatGPT3.5": "2"
+      "ChatGPT3.5": "2",
+      "llama3:8b": "1"
     }
   },
   {
@@ -92,7 +103,8 @@
     "human_annotation": 2,
     "responses": {
       "ChatGPT4o": "2",
-      "ChatGPT3.5": "2"
+      "ChatGPT3.5": "2",
+      "llama3:8b": "2"
     }
   },
   {
@@ -100,7 +112,8 @@
     "human_annotation": 4,
     "responses": {
       "ChatGPT4o": "4",
-      "ChatGPT3.5": "4"
+      "ChatGPT3.5": "4",
+      "llama3:8b": "4"
     }
   }
 ]
