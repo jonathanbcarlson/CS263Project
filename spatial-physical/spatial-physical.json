@@ -143,11 +143,11 @@
     }
   },
   {
-    "prompt": "Can a blueberry lemon loaf cake stack on top of each other? Which is more likely to be on top?\n1. The blueberry lemon loaf cake on top of the toaster\n2. The toaster on top of the blueberry lemon loaf cake\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
+    "prompt": "Can a blueberry lemon loaf cake and a toaster stack on top of each other? Which is more likely to be on top?\n1. The blueberry lemon loaf cake on top of the toaster\n2. The toaster on top of the blueberry lemon loaf cake\n3. Either can stack on top of the other\n4. Neither can stack on top of the other\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
     "human_annotation": 1,
     "responses": {
       "ChatGPT4o": "1",
-      "ChatGPT3.5": "3",
+      "ChatGPT3.5": "1",
       "llama3:8b": "4",
       "gemini-1.5-flash": "4",
       "gemini-1.5-pro": "2"
