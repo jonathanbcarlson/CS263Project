@@ -5,7 +5,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "3",
-      "llama3:8b": "4"
+      "llama3:8b": "4",
+      "gemini-1.5-flash": "3",
+      "gemini-1.5-pro": "1"
     }
   },
   {
@@ -14,7 +16,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "4",
-      "llama3:8b": "2"
+      "llama3:8b": "2",
+      "gemini-1.5-flash": "4",
+      "gemini-1.5-pro": "1"
     }
   },
   {
@@ -23,7 +27,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "3",
-      "llama3:8b": "4"
+      "llama3:8b": "4",
+      "gemini-1.5-flash": "4",
+      "gemini-1.5-pro": "4"
     }
   },
   {
@@ -32,7 +38,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "3",
-      "llama3:8b": "4"
+      "llama3:8b": "4",
+      "gemini-1.5-flash": "4",
+      "gemini-1.5-pro": "1"
     }
   },
   {
@@ -41,7 +49,9 @@
     "responses": {
       "ChatGPT4o": "2",
       "ChatGPT3.5": "3",
-      "llama3:8b": "3"
+      "llama3:8b": "3",
+      "gemini-1.5-flash": "3",
+      "gemini-1.5-pro": "1"
     }
   },
   {
@@ -50,7 +60,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "3",
-      "llama3:8b": "2"
+      "llama3:8b": "2",
+      "gemini-1.5-flash": "3",
+      "gemini-1.5-pro": "1"
     }
   },
   {
@@ -59,7 +71,9 @@
     "responses": {
       "ChatGPT4o": "2",
       "ChatGPT3.5": "3",
-      "llama3:8b": "2"
+      "llama3:8b": "2",
+      "gemini-1.5-flash": "2",
+      "gemini-1.5-pro": "2"
     }
   },
   {
@@ -68,7 +82,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "3",
-      "llama3:8b": "2"
+      "llama3:8b": "2",
+      "gemini-1.5-flash": "2",
+      "gemini-1.5-pro": "2"
     }
   },
   {
@@ -77,7 +93,9 @@
     "responses": {
       "ChatGPT4o": "2",
       "ChatGPT3.5": "3",
-      "llama3:8b": "4"
+      "llama3:8b": "4",
+      "gemini-1.5-flash": "4",
+      "gemini-1.5-pro": "2"
     }
   },
   {
@@ -86,7 +104,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "4",
-      "llama3:8b": "2"
+      "llama3:8b": "2",
+      "gemini-1.5-flash": "4",
+      "gemini-1.5-pro": "4"
     }
   },
   {
@@ -95,7 +115,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "1",
-      "llama3:8b": "2"
+      "llama3:8b": "2",
+      "gemini-1.5-flash": "3",
+      "gemini-1.5-pro": "1"
     }
   },
   {
@@ -104,7 +126,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "3",
-      "llama3:8b": "2"
+      "llama3:8b": "2",
+      "gemini-1.5-flash": "4",
+      "gemini-1.5-pro": "2"
     }
   },
   {
@@ -113,7 +137,9 @@
     "responses": {
       "ChatGPT4o": "2",
       "ChatGPT3.5": "3",
-      "llama3:8b": "4"
+      "llama3:8b": "4",
+      "gemini-1.5-flash": "2",
+      "gemini-1.5-pro": "2"
     }
   },
   {
@@ -122,7 +148,9 @@
     "responses": {
       "ChatGPT4o": "1",
       "ChatGPT3.5": "3",
-      "llama3:8b": "4"
+      "llama3:8b": "4",
+      "gemini-1.5-flash": "4",
+      "gemini-1.5-pro": "2"
     }
   }
 ]
