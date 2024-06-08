@@ -1,54 +1,106 @@
 [
   {
     "prompt": "1. Use a hand pump and pump it for 5 minutes.\n2. Use an electric air compressor and run it for 5 minutes.\n3. Use an electric air compressor and run it for 30 seconds.\n4. Use a vacuum cleaner and run it for 30 seconds.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 3
+    "human_annotation": 3,
+    "responses": {
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "3"
+    }
   },
   {
     "prompt": "1. Use an oven and bake it for 30 minutes.\n2. Use an oven and bake it for 5 minutes.\n3. Use a microwave and bake it for 30 minutes.\n4. Use a microwave and bake it for 5 minutes.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "1"
+    }
   },
   {
     "prompt": "1. Use a handsaw and cut for 2 hours.\n2. Use an electric jigsaw and cut for 2 hours.\n3. Use an electric jigsaw and cut for 5 minutes.\n4. Use a butter knife and cut for 5 minutes.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 3
+    "human_annotation": 3,
+    "responses": {
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "2"
+    }
   },
   {
     "prompt": "1. Use a sewing machine and sew for 7 hours.\n2. Use a needle and thread and sew for 7 hours.\n3. Use a sewing machine and sew for 2 minutes.\n4. Use a needle and thread and sew for 2 minutes.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "3"
+    }
   },
   {
     "prompt": "1. Use a paint roller and paint for 4 hours.\n2. Use a paintbrush and paint for 4 hours.\n3. Use a paint roller and paint for 15 minutes.\n4. Use a paintbrush and paint for 15 minutes.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "1"
+    }
   },
   {
     "prompt": "1. Use a paper cutter and work on it for 2 minutes.\n2. Use scissors and work on it for 2 minutes.\n3. Use a paper cutter and work on it for 20 minutes.\n4. Use a sharp knife and work on it for 20 minutes.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 3
+    "human_annotation": 3,
+    "responses": {
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "3"
+    }
   },
   {
     "prompt": "1. Leave the butter out at room temperature for 30 seconds.\n2. Microwave the butter for 5 minutes.\n3. Leave the butter in the refrigerator for 30 minutes.\n4. Microwave the butter for 30 seconds.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "2"
+    }
   },
   {
     "prompt": "1. Use a battery-powered lamp and set it to turn on automatically at midday.\n2. Use a solar-powered lamp and charge it during the day, setting it to turn on automatically after sunset.\n3. Use a solar-powered lamp and charge it during the day, setting it to turn on automatically at midday.\n4. Use a battery-powered lamp and set it to turn on automatically after sunset.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "2"
+    }
   },
   {
     "prompt": "1. Use an automatic sprinkler system and set it to water the plants every morning.\n2. Use an automatic sprinkler system and set it to water the plants once a month.\n3. Use a manual watering can and water the plants every morning.\n4. Use a manual watering can and water the plants once a month.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "1"
+    }
   },
   {
     "prompt": "1. Use a fan to blow air on the mirror for a few minutes each evening before going to bed.\n2. Use a fan to blow air on the mirror for a few minutes each morning right after I take a shower.\n3. Use a hair dryer to blow warm air on the mirror for a few minutes each morning right after I take a shower.\n4. Use a hair dryer to blow warm air on the mirror for a few minutes each evening before going to bed.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 3
+    "human_annotation": 3,
+    "responses": {
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "2"
+    }
   },
   {
     "prompt": "1. Use a high-quality brass gear to replace the worn-out gear and check the accuracy after a week.\n2. Use a high-quality brass gear to replace the worn-out gear and check the accuracy after a year.\n3. Use a plastic gear to replace the worn-out gear and check the mechanism after a year.\n4. Use a plastic gear to replace the worn-out gear and check the mechanism after a week.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "1"
+    }
   },
   {
     "prompt": "1. Use thin paper napkins and place them on the coffee table before the game night starts.\n2. Use a set of beverage coasters and place them on the coffee table before the game night starts.\n3. Use a set of beverage coasters and place them on the coffee table at the end of the evening after everyone leaves. \n4. Use thin paper napkins and place them on the coffee table at the end of the evening after everyone leaves.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "1"
+    }
   },
   {
     "prompt": "1. Wipe the piano with a cloth every day by myself.\n2. Wipe the piano with a cloth every six months by myself.\n3. Have the grand piano tuned by a professional technician every day.\n4. Have the grand piano tuned by a professional technician every six months.\nPlease choose the most likely answer and only respond with a single number 1, 2, 3, or 4. PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
+    }
   }
 ]

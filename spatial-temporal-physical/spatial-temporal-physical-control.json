@@ -1,62 +1,122 @@
 [
   {
     "prompt": "1. I ride a horse for half a day.\n    2. I walk for half an hour.\n    3. I drive for 2 days.\n    4. I run for a quarter of a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "2"
+    }
   },
   {
     "prompt": "1. I fly for 10 hours.\n    2. I run for a quarter of a day.\n    3. I walk for 2 days.\n    4. I sprint for 1 hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "3"
+    }
   },
   {
     "prompt": "1. I tiptoe for 1 minute.\n    2. I drive for a quarter of a day.\n    3. I ride a horse for 1 hour.\n    4. I fly for half an hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 3
+    "human_annotation": 3,
+    "responses": {
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "3"
+    }
   },
   {
     "prompt": "1. I walk for 10 hours.\n    2. I fly for 1 hour.\n    3. I ride a horse for half an hour.\n    4. I bike for 3 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "4"
+    }
   },
   {
     "prompt": "1. I ride a horse for 3 hours.\n    2. I bike for 2 days.\n    3. I tiptoe for half a day.\n    4. I walk for half an hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "2"
+    }
   },
   {
     "prompt": "1. I walk for half a day.\n    2. I sprint for half an hour.\n    3. I tiptoe for 5 minutes.\n    4. I run for a quarter of a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "4"
+    }
   },
   {
     "prompt": "1. I walk for 1 minute.\n    2. I fly for half an hour.\n    3. I bike for 5 minutes.\n    4. I run for 10 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "4"
+    }
   },
   {
     "prompt": "1. I bike for 1 minute.\n    2. I ride a horse for 10 hours.\n    3. I tiptoe for a quarter of a day.\n    4. I fly for half a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "2"
+    }
   },
   {
     "prompt": "1. I bike for half a day.\n    2. I sprint for half an hour.\n    3. I run for 5 minutes.\n    4. I fly for 2 days.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 1
+    "human_annotation": 1,
+    "responses": {
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
+    }
   },
   {
     "prompt": "1. I walk for 1 minute.\n    2. I ride a horse for 2 days.\n    3. I sprint for 5 minutes.\n    4. I run for a quarter of a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
+    }
   },
   {
     "prompt": "1. I walk for 2 days.\n    2. I sprint for 1 minute.\n    3. I run for 5 minutes.\n    4. I fly for a quarter of a day.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 4
+    "human_annotation": 4,
+    "responses": {
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
+    }
   },
   {
     "prompt": "1. I ride a horse for a quarter of a day.\n    2. I bike for 1 hour.\n    3. I walk for 10 hours.\n    4. I fly for 2 days.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "4",
+      "ChatGPT3.5": "4"
+    }
   },
   {
     "prompt": "1. I sprint for half a day.\n    2. I drive for 2 days.\n    3. I tiptoe for a quarter of a day.\n    4. I run for half an hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "2",
+      "ChatGPT3.5": "4"
+    }
   },
   {
     "prompt": "1. I fly for 10 hours.\n    2. I sprint for 2 days.\n    3. I run for 1 hour.\n    4. I bike for 3 hours.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 3
+    "human_annotation": 3,
+    "responses": {
+      "ChatGPT4o": "1",
+      "ChatGPT3.5": "2"
+    }
   },
   {
     "prompt": "1. I run for 10 hours.\n    2. I fly for 3 hours.\n    3. I walk for 2 days.\n    4. I bike for half an hour.\n    Please choose the most likely answer and only respond with a single number 1, 2, 3, or 4.\n    PLEASE ONLY respond with a single number and no punctuation.",
-    "human_annotation": 2
+    "human_annotation": 2,
+    "responses": {
+      "ChatGPT4o": "3",
+      "ChatGPT3.5": "3"
+    }
   }
 ]
