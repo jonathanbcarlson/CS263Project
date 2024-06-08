@@ -1,2 +1,6 @@
-.env
+# macOS
+.DS_Store
+# jupyter
 .ipynb_checkpoints
+# api keys
+.env
